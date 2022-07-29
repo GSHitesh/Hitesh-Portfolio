@@ -1,2 +1,2 @@
 # Sai Hitesh Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://gshitesh.github.io/Hitesh-Portfolio/
